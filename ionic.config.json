@@ -1,0 +1,7 @@
+{
+  "name": "SED-IONIC",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
